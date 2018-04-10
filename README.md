@@ -1,8 +1,8 @@
 # How to install
 
 ```
-git clone https://github.com/kensho-recruiting/fe-correlations-tusharc88.git
-cd fe-correlations-tusharc88
+git clone https://github.com/tusharc88/FECorrelations.git
+cd FECorrelations
 npm install
 ```
 
